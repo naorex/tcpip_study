@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.04
 
 # 非対話的にするための環境変数
 ENV DEBIAN_FRONTEND=noninteractive
